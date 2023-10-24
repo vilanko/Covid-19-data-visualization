@@ -6,6 +6,7 @@ in new cases and deaths due to the virus.
 Target Values:
 ● New Cases
 ● New Deaths
+
 Relevant Columns:
 ● Date of Observation
 ● Cumulative Cases
